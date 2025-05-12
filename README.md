@@ -62,7 +62,7 @@ The form features user-friendly UI/UX design with clear input fields and a visua
 
 ## Screenshot
 
-![Student Registration Form Screenshot]()
+![Student Registration Form Screenshot](https://github.com/RichoAye/Registration-System/blob/main/student%20registration%20form%20screenshut.png?raw=true)
 
 
 
